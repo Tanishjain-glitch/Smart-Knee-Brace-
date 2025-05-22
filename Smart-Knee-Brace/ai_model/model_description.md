@@ -1,0 +1,1 @@
+This model uses a CNN/LSTM architecture to classify gait phases and detect anomalies.
